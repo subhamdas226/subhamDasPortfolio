@@ -472,7 +472,7 @@ export const projects = [
       "JWT",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
+    // github: "https://github.com/rishavchanda/Project-Management-App",
     // webapp: "https://vexa-app.netlify.app/",
   },
   // {
